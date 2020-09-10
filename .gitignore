@@ -1,3 +1,5 @@
 tmp/todo.txt
 tmp1/todo1.txt
-*.xml
+tmp/*
+tmp1/*
+*.txt
